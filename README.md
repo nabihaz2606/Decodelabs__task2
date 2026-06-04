@@ -10,10 +10,9 @@ The website features a premium restaurant-inspired interface, responsive navigat
 
 # Screenshots of output
 
-![Home Page](homepage.png.jpg)
+![Home Page](homepage.png.jpeg)
 
 ## 🚀 Features
-
 - Responsive Web Design
 - Mobile-Friendly Navigation
 - CSS Grid & Flexbox
@@ -22,7 +21,6 @@ The website features a premium restaurant-inspired interface, responsive navigat
 - Modern UI/UX Design
 
 ## 🛠️ Technologies Used
-
 - HTML5
 - CSS3
 - CSS Grid
@@ -37,7 +35,7 @@ Modern CSS Techniques
 User Interface Design
 Frontend Development Best Practices
 
-  ##Supported Devices
+ ##Supported Devices
 Mobile Phones
 Tablets
 Laptops
