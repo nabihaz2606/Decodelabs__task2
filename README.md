@@ -10,7 +10,7 @@ The website features a premium restaurant-inspired interface, responsive navigat
 
 # Screenshots of output
 
-![Home Page](images/homepage.png.jpg)
+![Home Page](homepage.png.jpg)
 
 ## 🚀 Features
 
