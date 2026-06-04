@@ -10,7 +10,7 @@ The website features a premium restaurant-inspired interface, responsive navigat
 
 # Screenshots of output
 
-![Home Page](images/homepage.png)
+![Home Page](images/homepage.png.jpg)
 
 ## 🚀 Features
 
@@ -29,7 +29,7 @@ The website features a premium restaurant-inspired interface, responsive navigat
 - Flexbox
 - Media Queries
 
-   #Learning Objectives
+ ##Learning Objectives
 This project demonstrates:
 Mobile-First Design
 Responsive Layout Development
@@ -37,14 +37,14 @@ Modern CSS Techniques
 User Interface Design
 Frontend Development Best Practices
 
-  #Supported Devices
+  ##Supported Devices
 Mobile Phones
 Tablets
 Laptops
 Desktop Computers
 
 Author
-Nabiha Z.
+Nabiha.
 
 Frontend Development Project – DecodeLabs
 
