@@ -1,8 +1,10 @@
  🍽️ Fork & Flames
 
-Fork & Flames is a modern and fully responsive restaurant website built using HTML5 and CSS3. The project was developed as part of a Frontend Development training program to demonstrate responsive web design principles, modern UI/UX practices, and mobile-first development.
+Fork & Flames is a Responsive Web Layout project developed using HTML5 and CSS3. The project demonstrates how modern websites can automatically adapt to different screen sizes, providing an optimal user experience on mobile phones, tablets, laptops, and desktop devices.
 
-The website features a premium restaurant-inspired interface, responsive navigation menu, interactive food menu cards, smooth scrolling, and a contact section. It is designed to provide a seamless experience across desktop, tablet, and mobile devices using CSS Grid, Flexbox, and Media Queries.
+The website is designed as a restaurant platform that showcases menu items, restaurant information, and contact details through a clean and visually appealing interface. Responsive design techniques such as CSS Grid, Flexbox, and Media Queries are used to create flexible layouts that adjust according to the user's device.
+
+This project highlights the importance of responsive web design by ensuring accessibility, usability, and consistent performance across multiple screen resolutions. It also incorporates modern UI/UX principles, responsive navigation, responsive images, and structured content sections to improve user engagement and browsing experience.
                       
 ## 🌐 Live Demo
 
@@ -12,36 +14,33 @@ The website features a premium restaurant-inspired interface, responsive navigat
 
 ![Home Page](homepage.png.jpeg)
 
-## 🚀 Features
-- Responsive Web Design
-- Mobile-Friendly Navigation
-- CSS Grid & Flexbox
-- Interactive Menu Cards
-- Contact Form
-- Modern UI/UX Design
+🚀 Features
+Responsive Web Layout
+Mobile-Friendly Design
+Responsive Navigation Menu
+CSS Grid Layout
+Flexbox Layout
+Media Queries
+Interactive Menu Cards
+Responsive Images
+Contact Form
+Modern UI/UX Design
 
-## 🛠️ Technologies Used
-- HTML5
-- CSS3
-- CSS Grid
-- Flexbox
-- Media Queries
+🛠️ Technologies Used
+HTML5
+CSS3
+CSS Grid
+Flexbox
+Media Queries
 
- ##Learning Objectives
-This project demonstrates:
-Mobile-First Design
-Responsive Layout Development
-Modern CSS Techniques
-User Interface Design
-Frontend Development Best Practices
-
- ##Supported Devices
+📱 Supported Devices
 Mobile Phones
 Tablets
 Laptops
 Desktop Computers
 
-Author
+👩‍💻 Author
+
 Nabiha.
 
 Frontend Development Project – DecodeLabs
